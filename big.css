@@ -1,0 +1,76 @@
+body{
+  background-image: url(https://pibig.info/uploads/posts/2022-07/1657190016_6-pibig-info-p-temno-sinii-fon-odnotonnii-7.png);
+  font-family: 'Kanit', sans-serif;
+  font-size: 18px;
+}
+.i {
+  display: flex;
+}
+.info {
+
+width: 65%;
+background-color: Beige;
+margin-left;
+padding-bottom: 10px;
+
+border: 15px solid Beige;
+border-radius: 28px;
+margin-bottom:10px;
+}
+.info img {
+  width: 350px;
+  height: 250px;
+}
+.info a {
+  margin-left: 10px;
+}
+
+
+
+a{
+  color:black;
+  font-style: italic;
+  text-decoration: none;
+  background-color:SteelBlue;
+  border: 28px solid  SteelBlue;
+  border-radius: 28px;
+}
+a:hover{
+border-radius: 80px;
+border-color:DodgerBlue;
+background-color:DodgerBlue;
+}
+a:active{
+  color:orange;
+}
+img {
+  border-radius: 30px;
+}
+.infotext {
+  margin-left: 30px;
+
+}
+.infotext p {
+  color: #86898f;
+  font-style: italic;
+}
+.link{
+font-family: 'Kanit', sans-serif;
+
+}
+.right{
+  margin-left: 30px;
+  background-color: Beige;
+  width: 300px;
+
+}
+.right p {
+  color: #86898f;
+  font-style: italic;
+}
+.double{
+  display: flex;
+}
+.ii{
+  margin-bottom: 10px;
+}
